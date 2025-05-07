@@ -45,3 +45,4 @@ The database includes tables for:
 - Resumes
 - Interviews
 - Analytics # clone
+# clone
